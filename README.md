@@ -122,3 +122,8 @@ Réponse :
     }
 ]
 ```
+
+## Connexion Database 
+
+Le fichier config.py contient des informations privées de connexion à une base de donnée SupaBase. 
+Leur utilisation ne doit pas dépasser le cadre de ce cours. 
