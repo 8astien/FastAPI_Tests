@@ -1,0 +1,2 @@
+url="https://doaetxpmgsjvhotjbpqv.supabase.co"
+api="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRvYWV0eHBtZ3NqdmhvdGpicHF2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTU4NDg1ODUsImV4cCI6MjAzMTQyNDU4NX0.EIVxqEgeTxhe-x9JYyN97HbbQ4PAMqvnmBo0OfQXj_c"
